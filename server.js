@@ -74,6 +74,9 @@ function contentHtml(data){
             </head>
             <body classs="my-body">
             <a href="/"> Home</a>
+            <a href="/artical-one">one</a>
+            <a href="/artical-two"> two</a>
+            <a href="/artical-three"> three</a>
             <h1>${hedding}</h1>
             <hr><br>
             <div class= "metiral">
