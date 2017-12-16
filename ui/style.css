@@ -28,3 +28,13 @@ body {
     font-family:Times New Roman;
     background-color:blue;
 }
+.my-body{
+    max-width:800px;
+    color:black;
+    background-color:grey;
+    font-family:"Times New Roman", Georgia, Serif;
+    margin:50px;
+}
+.metiral {
+    color:blue;
+}
