@@ -73,7 +73,7 @@ function contentHtml(data){
             <link rel="stylesheet" type="text/css" href="ui/style.css" >
             </head>
             <body classs="my-body">
-            <a href="ui/index.html"> Home</a>
+            <a href="/"> Home</a>
             <h1>${hedding}</h1>
             <hr><br>
             <div class= "metiral">
